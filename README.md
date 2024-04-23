@@ -2,7 +2,7 @@
 Done as an example boilerplate for setting up a Django backend, handling CORS, exposing an API, simple login page and sample read/write to a DB, serving React as the frontend (forms / hooks)
 
 ## Running locally
-- Setup a python venv and pip install requirements.txt
+- Setup a python venv and ```pip install requirements.txt```
 - run ```npm install``` on ```myapp```
 - ```cd sample && python manage.py migrate```
 - terminal 1: ```cd myapp && npm start```
