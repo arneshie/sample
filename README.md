@@ -3,6 +3,7 @@ Done as an example boilerplate for setting up a Django backend, handling CORS, e
 
 ## Running locally
 - Setup a python venv and pip install requirements.txt
+- run ```npm install``` on ```myapp```
 - ```cd sample && python manage.py migrate```
 - terminal 1: ```cd myapp && npm start```
 - terminal 2: ```cd sample && python manage.py runserver```
